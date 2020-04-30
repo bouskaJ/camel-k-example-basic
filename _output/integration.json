@@ -1,0 +1,1 @@
+{"summary":{"total":2,"passed":2,"failed":0,"skipped":0,"pending":0,"undefined":0},"tests":[{"name":"classpath:org/citrusframework/yaks/integration.feature:3"},{"name":"classpath:org/citrusframework/yaks/integration.feature:7"}]}

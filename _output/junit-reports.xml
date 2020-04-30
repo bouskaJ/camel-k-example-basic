@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="org.citrusframework.yaks.JUnitReport" errors="0" failures="0" skipped="0" tests="2" time="0">
+  <testcase name="integration.feature:3" classname="classpath:org/citrusframework/yaks/integration.feature:3" time="0"></testcase>
+  <testcase name="integration.feature:7" classname="classpath:org/citrusframework/yaks/integration.feature:7" time="0"></testcase>
+</testsuite>
